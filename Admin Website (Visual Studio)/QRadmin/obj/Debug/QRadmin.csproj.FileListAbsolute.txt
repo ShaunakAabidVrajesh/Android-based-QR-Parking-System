@@ -1,0 +1,165 @@
+c:\users\deadman#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\QRadmin.exe.config
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\QRadmin.exe
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\QRadmin.pdb
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\obj\Debug\QRadmin.csprojResolveAssemblyReference.cache
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\obj\Debug\QRadmin.createhandler.resources
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\obj\Debug\QRadmin.handler.resources
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\obj\Debug\QRadmin.homepage.resources
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\obj\Debug\QRadmin.login.resources
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\obj\Debug\QRadmin.parkmanage.resources
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\obj\Debug\QRadmin.Properties.Resources.resources
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\obj\Debug\QRadmin.csproj.GenerateResource.Cache
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\obj\Debug\QRadmin.exe
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\obj\Debug\QRadmin.pdb
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\grpc_csharp_ext.x86.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\grpc_csharp_ext.x64.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.CommonProtos.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.Gax.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.Auth.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.Core.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Cloud.Firestore.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Cloud.Firestore.V1.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.LongRunning.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Protobuf.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Grpc.Auth.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Grpc.Core.Api.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Grpc.Core.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Buffers.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Collections.Immutable.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Linq.Async.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Memory.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.CommonProtos.pdb
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.CommonProtos.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.Gax.pdb
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.Gax.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.pdb
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.pdb
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.Auth.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.Core.pdb
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.Core.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Cloud.Firestore.pdb
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Cloud.Firestore.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Cloud.Firestore.V1.pdb
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Cloud.Firestore.V1.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.LongRunning.pdb
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.LongRunning.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Protobuf.pdb
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Protobuf.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Grpc.Auth.pdb
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Grpc.Auth.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Grpc.Core.pdb
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Grpc.Core.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Grpc.Core.Api.pdb
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Grpc.Core.Api.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Buffers.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Collections.Immutable.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Linq.Async.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Memory.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DEADMAN#\documents\visual studio 2015\Projects\QRadmin\QRadmin\bin\Debug\qrparking-b6fa9-firebase-adminsdk-gte05-c016919e55.json
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\QRadmin.exe.config
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\obj\Debug\QRadmin.exe
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\obj\Debug\QRadmin.pdb
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\qrparking.json
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\grpc_csharp_ext.x86.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\grpc_csharp_ext.x64.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\libgrpc_csharp_ext.x86.so
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\libgrpc_csharp_ext.x64.so
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\libgrpc_csharp_ext.x86.dylib
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\libgrpc_csharp_ext.x64.dylib
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\QRadmin.exe
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\QRadmin.pdb
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.CommonProtos.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.Gax.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.Gax.Grpc.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.Auth.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.Core.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.PlatformServices.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Cloud.Firestore.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Cloud.Firestore.V1.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.LongRunning.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Protobuf.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Grpc.Auth.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Grpc.Core.Api.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Grpc.Core.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Newtonsoft.Json.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Buffers.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Collections.Immutable.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Linq.Async.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Memory.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Numerics.Vectors.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.CommonProtos.pdb
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.CommonProtos.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.Gax.pdb
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.Gax.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.Gax.Grpc.pdb
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.Gax.Grpc.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.pdb
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Api.Gax.Grpc.GrpcCore.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.pdb
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.Auth.pdb
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.Auth.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.Core.pdb
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Apis.Core.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Cloud.Firestore.pdb
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Cloud.Firestore.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Cloud.Firestore.V1.pdb
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Cloud.Firestore.V1.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.LongRunning.pdb
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.LongRunning.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Protobuf.pdb
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Google.Protobuf.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Grpc.Auth.pdb
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Grpc.Auth.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Grpc.Core.pdb
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Grpc.Core.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Grpc.Core.Api.pdb
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Grpc.Core.Api.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\Newtonsoft.Json.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Buffers.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Collections.Immutable.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Linq.Async.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Memory.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Numerics.Vectors.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\obj\Debug\QRadmin.csprojResolveAssemblyReference.cache
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\obj\Debug\QRadmin.createhandler.resources
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\obj\Debug\QRadmin.handler.resources
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\obj\Debug\QRadmin.homepage.resources
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\obj\Debug\QRadmin.login.resources
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\obj\Debug\QRadmin.parkmanage.resources
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\obj\Debug\QRadmin.Properties.Resources.resources
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\obj\Debug\QRadmin.csproj.GenerateResource.Cache
+C:\BACKUP FOLDER\Documents\Visual Studio 2015\Projects\QRadmin\QRadmin\obj\Debug\QRadmin.emailvalid.resources
